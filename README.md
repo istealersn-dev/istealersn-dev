@@ -51,18 +51,6 @@ I build tools that run locally, stay private, and actually work. Currently deep 
 </p>
 
 ---
-
-### Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [stanleyos](https://github.com/istealersn-dev/stanleyos) | Local-first AI portfolio tracker — CAMS PDF → Ollama analyst → Slack | TS · Prisma · Ollama · TanStack |
-| [ai-pulse](https://github.com/istealersn-dev/ai-pulse) | macOS menu bar token tracker for Claude Code + Codex | TS · macOS |
-| [orchestr8](https://github.com/istealersn-dev/orchestr8) | PRD → multi-agent pipeline (PM, architect, dev) | TS · CLI |
-| [claude-code-analytics](https://github.com/istealersn-dev/claude-code-analytics) | Usage analytics dashboard for Claude Code CLI | TS · React |
-| [claude-code-init](https://github.com/istealersn-dev/claude-code-init) | Project init toolkit for Claude Code workflows | Shell |
-| [latex-html-converter](https://github.com/istealersn-dev/latex-html-converter) | LaTeX → HTML5 converter via FastAPI | Python · FastAPI |
-
 ---
 
 <p align="center">
